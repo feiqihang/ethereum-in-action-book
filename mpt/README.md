@@ -100,7 +100,7 @@ l 账户状态：
 
 &#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 MPT节点列表如下：
 
@@ -147,7 +147,7 @@ MPT存储上述账户列表中第2个账户的地址和状态映射关系之后�
 
 &#x20;
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 MPT节点列表如下：
 
@@ -213,7 +213,7 @@ MPT存储上述账户列表中第7个账户的地址和状态映射关系之后�
 
 &#x20;
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 MPT节点列表如下：
 
@@ -270,7 +270,7 @@ MPT存储上述账户列表中第10个账户的地址和状态映射关系之后
 
 &#x20;
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 MPT节点列表如下：
 
@@ -359,7 +359,7 @@ MPT存储上述交易列表中第3笔交易的索引和交易内容映射关系�
 
 &#x20;
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 &#x20;
 
